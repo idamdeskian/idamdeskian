@@ -13,7 +13,7 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 
-<a href="https://kaggle.com/idam deskian" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="idam deskian" height="30" width="40" /></a>
+<a href="https://www.kaggle.com/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="idam deskian" height="30" width="40" /></a>
 <a href="https://fb.com/idam deskian" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="idam deskian" height="30" width="40" /></a>
 <a href="https://www.instagram.com/idham_deskian/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="idham deskian" height="30" width="40" /></a>
 
